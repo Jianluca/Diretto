@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streamingcommunity.bz",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -30,8 +30,8 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
-              "CB_PROXY":"0",
+              "url":"https://cb01new.com",
+              "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
@@ -51,19 +51,19 @@
               "url":"https://guardaserietv.mom",
               "enabled":"1",
               "GS_ForwardProxy":"0",
-              "GS_PROXY":"0"
+              "GS_PROXY":"1"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
               "GH_ForwardProxy":"0",
-              "GH_PROXY":"0"
+              "GH_PROXY":"1"
           },
           "Onlineserietv":{
               "domain":"com",
               "enabled":"1",
               "OST_ForwardProxy":"0",
-              "OST_PROXY":"0"
+              "OST_PROXY":"1"
           },
           "AnimeWorld":{
               "url":"https://www.animeworld.so",
@@ -84,7 +84,7 @@
        "load_env": "0",
        "HOST": "0.0.0.0",
        "PORT": "8080",
-       "Name": "MammaMia",
+       "Name": "Diretto",
        "Icon": "🍕️",
        "Public_Instance": "0",
        "Remote_Instance": "1",
