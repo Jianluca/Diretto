@@ -1,14 +1,12 @@
 {
     "Siti": {
-           "DDLstreamitaly":{
-               "url":"https://ddlstreamitaly.co",
-               "cookies" : {
-                  "ips4_device_key":"1496c03312d318b557ff53512202e757",
-                  "ips4_IPSSessionFront":"d9ace0029696972877e2a5e3614a333b",
-                  "ips4_member_id":"4030088",
-                  "ips4_login_key":"71a501781ba479dfb91b40147e637daf"
-                  },
-               "enabled":"1"
+           "StreamingCommunity": {
+               "url": "https://streamingcommunity.paris",
+               "SC_ForwardProxy": "0",
+               "SC_PROXY": "0",
+               "VX_ForwardProxy": "0",
+               "VX_PROXY": "0",
+               "enabled": "1"
            },
            "Filmpertutti": {
                "url": "https://filmpertutti.motorcycles",
@@ -17,7 +15,7 @@
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "0",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "1"
            },
            "Mysterius":{
@@ -32,23 +30,25 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01net.com",
+              "url":"https://cb01new.loan",
               "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
               "enabled":"1"
           },
-          "StreamingCommunity": {
-               "url": "https://streamingcommunity.garden",
-               "SC_ForwardProxy": "0",
-               "SC_PROXY": "0",
-               "VX_ForwardProxy": "0",
-               "VX_PROXY": "0",
-               "enabled": "1"
+          "DDLStream":{
+              "url":"https://ddlstreamitaly.co",
+              "cookies" : {
+                  "ips4_device_key":"1496c03312d318b557ff53512202e757",
+                  "ips4_IPSSessionFront":"d9ace0029696972877e2a5e3614a333b",
+                  "ips4_member_id":"4030088",
+                  "ips4_login_key":"71a501781ba479dfb91b40147e637daf"
+                  },
+              "enabled":"1"
           },
           "Guardaserie":{
-              "url":"https://guardaserietv.top",
+              "url":"https://guardaserietv.mom",
               "enabled":"1",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"1"
