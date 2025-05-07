@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.education",
+               "url": "https://streamingcommunity.ovh",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -27,7 +27,7 @@
           },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
-              "enabled":"1"
+              "enabled":"0"
           },
           "CB01":{
               "url":"https://cb01net.vip",
@@ -35,7 +35,7 @@
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
@@ -49,13 +49,13 @@
           },
           "Guardaserie":{
               "url":"https://guardaserietv.top",
-              "enabled":"1",
+              "enabled":"0",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"1"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
-              "enabled":"1",
+              "enabled":"0",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"1"
           },
