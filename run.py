@@ -211,7 +211,7 @@ async def addon_meta(request: Request,id: str):
 
 
 @app.get('/{config:path}/stream/{type}/{id}.json')
-@limiter.limit("5/second")
+@limiter.limit("2/second")
 async def addon_stream(request: Request,config, type, id,):
     if type not in MANIFEST['types']:
         raise HTTPException(status_code=404)
