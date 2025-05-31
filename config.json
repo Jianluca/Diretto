@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingunity.to",
+               "url": "https://streamingunity.bio",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -45,7 +45,7 @@
                   "ips4_member_id":"4030088",
                   "ips4_login_key":"71a501781ba479dfb91b40147e637daf"
                   },
-              "enabled":"1"
+              "enabled":"0"
           },
           "Guardaserie":{
               "url":"https://guardaserietv.top",
