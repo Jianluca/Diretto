@@ -23,7 +23,7 @@
            },
           "LordChannel":{
                "url":"https://lordchannel.net",
-               "enabled":"1"
+               "enabled":"0"
           },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
