@@ -27,7 +27,7 @@
           },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
-              "enabled":"0"
+              "enabled":"1"
           },
           "CB01":{
               "url":"https://cb01net.vip",
