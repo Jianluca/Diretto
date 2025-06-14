@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://vixsrc.to",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -10,20 +10,20 @@
            },
            "Filmpertutti": {
                "url": "https://filmpertutti.motorcycles",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "0",
                "TF_PROXY": "0",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Mysterius":{
                "enabled": "0"    
            },
           "LordChannel":{
                "url":"https://lordchannel.net",
-               "enabled":"1"
+               "enabled":"0"
           },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
@@ -35,7 +35,7 @@
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
@@ -45,47 +45,47 @@
                   "ips4_member_id": null,
                   "ips4_login_key": null
                   },
-              "enabled":"1"
+              "enabled":"0"
           },
           "Guardaserie":{
               "url":"https://guardaserietv.mom",
-              "enabled":"1",
+              "enabled":"0",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
-              "enabled":"1",
+              "enabled":"0",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"0"
           },
           "Onlineserietv":{
               "domain":"com",
-              "enabled":"1",
+              "enabled":"0",
               "OST_ForwardProxy":"0",
               "OST_PROXY":"0"
           },
           "AnimeWorld":{
               "url":"https://www.animeworld.so",
-              "enabled":"1",
+              "enabled":"0",
               "AW_ForwardProxy":"0",
               "AW_PROXY":"0"
           },
           "SkyStreaming":{
               "url":"https://skystreaming.watch",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DaddyLiveHD":{
               "url":"https://daddylive.mp",
-              "enabled":"1"
+              "enabled":"0"
           }
    },
    "General":{
        "load_env": "0",
        "HOST": "0.0.0.0",
        "PORT": "8080",
-       "Name": "MammaMia",
-       "Icon": "🍕️",
+       "Name": "Diretto",
+       "Icon": "",
        "Public_Instance": "0",
        "Remote_Instance": "1",
        "Global_Proxy": "0"
