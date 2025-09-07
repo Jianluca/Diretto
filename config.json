@@ -35,7 +35,7 @@
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
@@ -55,7 +55,7 @@
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
-              "enabled":"1",
+              "enabled":"0",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"0"
           },
@@ -73,27 +73,27 @@
         },  
           "AnimeWorld":{
               "url":"https://www.animeworld.so",
-              "enabled":"1",
+              "enabled":"0",
               "AW_ForwardProxy":"0",
               "AW_PROXY":"0"
           },
           "SkyStreaming":{
               "url":"https://skystreaming.watch",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DaddyLiveHD":{
               "url":"https://daddylive.mp",
-              "enabled":"1"
+              "enabled":"0"
           }
    },
    "General":{
        "load_env": "0",
        "HOST": "0.0.0.0",
        "PORT": 8080,
-       "Name": "MammaMia",
-       "Icon": "🍕️",
+       "Name": "Vixsrc",
+       "Icon": "🔗",
        "Public_Instance": "0",
-       "Remote_Instance": "0",
+       "Remote_Instance": "1",
        "Global_Proxy": "0"
        }
   }
