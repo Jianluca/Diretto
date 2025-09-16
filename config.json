@@ -12,7 +12,7 @@
               "url":"https://www.streamingwatch.org",
               "SW_PROXY": "0",
               "SW_ForwardProxy": "0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "CB01":{
               "url":"https://cb01.uno",
@@ -20,41 +20,41 @@
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "Guardaserie":{
               "url":"https://guardaserie.qpon",
-              "enabled":"1",
+              "enabled":"0",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
-              "enabled":"1",
+              "enabled":"0",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"0"
           },
           "Eurostreaming":{
             "url": "https://eurostreaming.garden",
-            "enabled": "1",
+            "enabled": "0",
             "ES_ForwardProxy": "0",
             "ES_PROXY": "0"
           },  
           "Guardaflix":{
             "url": "https://guardaflix.live",
-            "enabled": "1",
+            "enabled": "0",
             "GF_ForwardProxy": "0",
             "GF_PROXY": "0"
           },
           "Guardoserie":{
             "url": "https://guardoserie.live",
-            "enabled": "1",
+            "enabled": "0",
             "GO_ForwardProxy": "0",
             "GO_PROXY": "0"
           },
           "AnimeWorld":{
             "url":"https://www.animeworld.so",
-            "enabled":"1",
+            "enabled":"0",
             "AW_ForwardProxy":"0",
             "AW_PROXY":"0"
           }
@@ -63,8 +63,8 @@
        "load_env": "0",
        "HOST": "0.0.0.0",
        "PORT": 8080,
-       "Name": "MammaMia",
-       "Icon": "🍕️",
+       "Name": "Diretto",
+       "Icon": "✅",
        "level": "info",
        "Global_Proxy": "0"
        }
